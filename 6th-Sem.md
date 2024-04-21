@@ -1,7 +1,7 @@
 ![Grinding time](/images/study4.jpg)
 
 
-WA 
+UE21EC351B - Waveguides and Antennas	
 
 Subject                           | link             | 
 --------------------------------------|-------------------------|
@@ -10,7 +10,7 @@ Unit 2                | [link](https://drive.google.com/file/d/1NLmUwsTa8a8cAiLG
 Unit 3                   | [link](https://drive.google.com/file/d/1Gpy5qwa0qpRfn6xJlcXBXVSqwrJM-y6O/view?usp=sharing)           | 
 
 
-CA 
+UE21EC341B - Computer Architecture
 
 Subject                           | link             | 
 --------------------------------------|-------------------------|
